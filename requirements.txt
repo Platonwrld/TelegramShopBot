@@ -6,7 +6,6 @@ files
 telebot
 SimpleQIWI
 telebot
-random
 datetime
 
 payments
