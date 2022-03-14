@@ -9,7 +9,6 @@ telebot
 datetime
 
 payments
-adminka
 coinbase
 time
 requests
