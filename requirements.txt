@@ -1,5 +1,4 @@
 telebot  
-shelve
 config 
 dop
 files
